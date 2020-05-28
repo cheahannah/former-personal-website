@@ -19,6 +19,7 @@
     "gatsby-plugin-react-helmet": "^3.1.24",
     "gatsby-plugin-sharp": "^2.6.9",
     "gatsby-plugin-tinacms": "^0.1.29",
+    "gatsby-remark-images": "^3.3.8",
     "gatsby-source-filesystem": "^2.1.56",
     "gatsby-tinacms-git": "^0.4.3",
     "gatsby-tinacms-remark": "^0.7.9",
