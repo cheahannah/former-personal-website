@@ -1,8 +1,9 @@
 import { graphql } from "gatsby";
 import { useLocalRemarkForm } from "gatsby-tinacms-remark";
 import React from "react";
-import Navbar from "./Navbar";
-import PageLayout from "./PageLayout";
+import Navbar from "../components/Navbar";
+import PageLayout from "../components/PageLayout";
+import Footer from "../components/Footer";
 
 const ProjectPage = ({ data: { markdownRemark } }) => {
   const [markdown] = useLocalRemarkForm(markdownRemark);
@@ -12,6 +13,7 @@ const ProjectPage = ({ data: { markdownRemark } }) => {
       <PageLayout title={markdown.frontmatter.title}>
         <div dangerouslySetInnerHTML={{ __html: markdown.html }} />
       </PageLayout>
+      <Footer />
     </div>
   );
 };
