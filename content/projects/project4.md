@@ -1,7 +1,7 @@
 ---
-title: Reported Laser Pointing at Aircrafts from 2013 to 2017
+title: Reported Laser Pointings at Aircrafts
 subtitle: '2019'
-featuredImage: revsup2.png
+featuredImage: laser.PNG
 excerpt: 'Tools: Tableu, Excel'
 ---
 * Utilized Tableau and Excel to clean and manipulate data set to explore trends of illegal aircraft laser pointings

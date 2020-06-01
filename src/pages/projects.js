@@ -11,7 +11,7 @@ const ProjectTile = ({ title, subtitle, excerpt, featuredImage, href }) => {
     <div className="project">
       <Link to={href}>
         <Img fluid={featuredImage.childImageSharp.fluid} className="project-thumbnail" />
-        <h1>{title}</h1>
+        <h2>{title}</h2>
         <h3>{subtitle}</h3>
         <p>{excerpt}</p>
       </Link>

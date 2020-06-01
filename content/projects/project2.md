@@ -1,8 +1,8 @@
 ---
-title: Spam or Ham
+title: Spam or Ham Email?
 subtitle: '2019'
-featuredImage: revsup2.png
-excerpt: 'Tools: Python, JupyterNotebook'
+featuredImage: spam.jpg
+excerpt: 'Tools: Python, Jupyter Notebooks'
 ---
 * Split the email data up into a training set and a test set
 * Used a logistic regression classifier to test the accuracy of the model to see if it was classifying the emails into correct categories.

@@ -1,7 +1,7 @@
 ---
-title: 'Bioinspired Design: Rainwater Collection Web'
+title: 'Rainwater Collection Web'
 subtitle: '2020'
-featuredImage: revsup2.png
+featuredImage: web.PNG
 excerpt: 
 ---
 * Utilized a bottom-up design approach, starting with biological research
