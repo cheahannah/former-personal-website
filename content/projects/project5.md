@@ -1,5 +1,5 @@
 ---
-title: Automated Medical Image Analysis
+title: Automated Medical Image Analysis (2017)
 subtitle: '2017'
 featuredImage: revsup2.png
 excerpt: 'Tools: MATLAB'

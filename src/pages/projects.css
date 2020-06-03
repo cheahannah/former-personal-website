@@ -15,6 +15,7 @@
 
 .project h3 {
   margin-top: -20px;
+  color: rgb(0, 0, 0, 0.5);
 }
 
 .project a {
@@ -23,7 +24,8 @@
 
 .project p {
   margin-top: -20px;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(51, 51, 51, 0.5);
+  font-size: 18px;
 }
 
 .project-thumbnail {

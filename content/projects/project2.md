@@ -1,5 +1,5 @@
 ---
-title: Spam vs Ham Email Classifier
+title: Spam vs Ham Email Classifier (2019)
 subtitle: '2019'
 featuredImage: spam.jpg
 excerpt: 'Tools: Python (numpy, pandas, seaborn, matplotlib), Jupyter Notebooks'

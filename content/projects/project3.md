@@ -1,5 +1,5 @@
 ---
-title: Presidential Twitter Behavior
+title: Presidential Twitter Behavior (2019)
 subtitle: '2019'
 featuredImage: twitter2.jpg
 excerpt: 'Tools: Python (numpy, pandas, matplotlib, seaborn), Jupyter Notebooks'
