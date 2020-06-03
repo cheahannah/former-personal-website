@@ -20,7 +20,7 @@ export default function SocialFollow() {
                 <FontAwesomeIcon icon ={faLinkedin} size="x" />
             </a>
             <a 
-                href="https://github.com/thecheapet/"
+                href="https://github.com/cheahannah/"
                 className="github social"
                 target="_blank" rel="noreferrer"
             >
