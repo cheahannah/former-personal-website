@@ -1,13 +1,14 @@
 ---
-title: Spam or Ham Email?
+title: Spam vs Ham Email Classifier
 subtitle: '2019'
 featuredImage: spam.jpg
-excerpt: 'Tools: Python, Jupyter Notebooks'
+excerpt: 'Tools: Python (numpy, pandas, seaborn, matplotlib), Jupyter Notebooks'
 ---
-* Split the email data up into a training set and a test set
-* Used a logistic regression classifier to test the accuracy of the model to see if it was classifying the emails into correct categories.
-* Improved accuracy through amount of punctuation in the email, amount of upper case letters, amount of characters in each email, and amount of unique words used in each email.
+Tools: Python (numpy, pandas, seaborn, matplotlib), Jupyter Notebooks
 
-[Link to project]
+* Split email data into training and test set, then cleaned data by replacing NaN values and removing line breaks, multiple spaces, and stopwords
+* Used a logistic regression classifier to test the accuracy of the model to check if model was classifying the emails as spam or ham
+* Improved accuracy through amount of punctuation in the email, amount of characters in the email subject and body, and amount of unique words used in each email
+* Participated in class-wide Kaggle competition and achieved a test accuracy of 0.90857 
 
-
+[Link to project on Github](https://github.com/cheahannah/spam-vs-ham-project)

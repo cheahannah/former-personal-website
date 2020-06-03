@@ -23,6 +23,7 @@ export default ProjectPage;
 export const query = graphql`
   query($filePath: String!) {
     markdownRemark(fileRelativePath: { eq: $filePath }) {
+      ...TinaRemark
       html
       frontmatter {
         title

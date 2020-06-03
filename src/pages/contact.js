@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import PageLayout from "../components/PageLayout";
 import Footer from "../components/Footer";
 import ContactForm from '../components/ContactForm';
 import SocialFollow from "../components/SocialFollow";

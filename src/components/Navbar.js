@@ -15,7 +15,7 @@ const Navbar = ({ selected }) => {
       </div>
       <div className="links">
         <Link to="/about">about</Link>
-        <a href={pdf} target="_blank">resume</a>
+        <a href={pdf} target="_blank" rel="noreferrer">resume</a>
         <Link to="/projects">projects</Link>
         <Link to="/contact">contact</Link>
       </div>

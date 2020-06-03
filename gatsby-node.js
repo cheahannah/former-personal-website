@@ -5,7 +5,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const result = await graphql(`
     query AllProjects {
       projects: allMarkdownRemark(
-        sort: { fields: [frontmatter___subtitle], order: DESC }, 
         filter: { fileRelativePath: { regex: "//content/.*/" } }
       ) {
         edges {
@@ -13,15 +12,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             fileRelativePath
             frontmatter {
               title
-              subtitle
-              excerpt
-              featuredImage{
-                childImageSharp{
-                  fluid(maxWidth: 800){
-                    ...GatsbyImageSharpFluid
-                  }
-                }
-              }
             }
             html
           }

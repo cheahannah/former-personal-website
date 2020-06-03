@@ -2,9 +2,12 @@
 title: Presidential Twitter Behavior
 subtitle: '2019'
 featuredImage: twitter2.jpg
-excerpt: 'Tools: Python, Jupyter Notebooks'
+excerpt: 'Tools: Python (numpy, pandas, matplotlib, seaborn), Jupyter Notebooks'
 ---
-* Analyzed a President Donald Trumps' Twitter data across his different devices to decipher when it was him tweeting.
-* Evaluated the sentiment of the tweets using Vader Lexicon and found when the sentiment would increase or decrease.
+Tools: Python (numpy, pandas, matplotlib, seaborn), Jupyter Notebooks
 
-[Link to project]
+* Analyzed a President Donald Trumps' Twitter data across different devices to figure out when he was tweets vs. his staff
+* Evaluated the sentiment of the tweets using Vader Lexicon and discovered which words would cause sentiment to increase or decrease
+
+[Link to project on Github](https://github.com/cheahannah/presidential-twitter-behavior/tree/master)
+

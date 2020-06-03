@@ -10,7 +10,7 @@ const ProjectTile = ({ title, subtitle, excerpt, featuredImage, href }) => {
   return (
     <div className="project">
       <Link to={href}>
-        <Img fluid={featuredImage.childImageSharp.fluid} className="project-thumbnail" />
+        <Img fluid={featuredImage.childImageSharp.fluid} className="project-thumbnail"/>
         <h2>{title}</h2>
         <h3>{subtitle}</h3>
         <p>{excerpt}</p>

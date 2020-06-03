@@ -7,7 +7,7 @@ import "./about.css";
 const ErrorPage = () => (
     <div>
         <Navbar />
-        <PageLayout title="404" width={30} children={"Education", "Certifications"}>
+        <PageLayout title="404" width={30}>
             <div>
             <p>Oops! Page not found :(</p>
             <p></p>
