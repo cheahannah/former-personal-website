@@ -20,18 +20,11 @@ const AboutPage = () => (
         <h1>Education</h1>
         <b>University of California, Berkeley</b>
         <p>B.A. in Data Science, Emphasis in Business and Industrial Analytics</p>
-        <p></p>
+        <p>Minor in Asian American and Asian Diaspora Studies</p>
         <b>Courses: </b>
         <ul class="columns" data-columns="2">
-          <li>Principles and Techniques of Data Science</li>
-          <li>Data Structures</li>
-          <li>Artificial Intelligence</li>
-          <li>Probability</li>
-          <li>Linear Algebra</li>
-          <li>Multivariable Calculus</li>
-          <li>Principles of Business</li>
-          <li>Bioinspired Design</li>
-          <li>Perception</li>
+          <li>Principles and Techniques of Data Science, Artificial Intelligence, Data Structures, Human Contexts and Ethics of Data</li>
+          <li>Statistics, Probability, Linear Algebra, Multivariable Calculus</li>
         </ul>
       </div>
 
