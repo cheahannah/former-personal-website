@@ -11,4 +11,4 @@ Tools: Python (numpy, pandas, seaborn, matplotlib), Jupyter Notebooks
 * Validated model performance and minimized overfitting through cross validation
 * Participated in class-wide Kaggle competition and achieved a test accuracy of 0.90857 
 
-[Link to project on Github](https://github.com/cheahannah/spam-vs-ham-project)
+[Link to project on Github](https://github.com/cheahannah/spam-vs-ham-project/blob/master/Spam_vs_Ham_Project.ipynb)

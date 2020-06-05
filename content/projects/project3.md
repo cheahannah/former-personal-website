@@ -10,5 +10,5 @@ Tools: Python (numpy, pandas, matplotlib, seaborn), Jupyter Notebooks
 * Examined distributions tweets from different devices overtime through exploratory data analysis and visualizations
 * Evaluated the sentiment of the tweets using Vader Lexicon and analyzed polarity of tweets
 
-[Link to project on Github](https://github.com/cheahannah/presidential-twitter-behavior/tree/master)
+[Link to project on Github](https://github.com/cheahannah/presidential-twitter-behavior/blob/master/Presidential_Twitter_Behavior.ipynb)
 

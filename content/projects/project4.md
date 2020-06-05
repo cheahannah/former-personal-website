@@ -4,6 +4,8 @@ subtitle: '2019'
 featuredImage: laser.PNG
 excerpt: 'Tools: Tableu, Excel'
 ---
+Tools: Tableu, Excel
+
 * Utilized Tableau and Excel to clean and manipulate data set to explore trends of illegal aircraft laser pointings
 * Designed an interactive data visualization on Tableau to effectively organize and present findings with a partner
 
