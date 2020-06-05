@@ -9,7 +9,9 @@ const PageLayout = ({ title, subTitle, width, children }) => {
           <h1>{title}</h1>
         </div>
       </div>
-      <div className="content">{children}</div>
+      <div className="content">
+        {children}
+      </div>
     </div>
   );
 };
