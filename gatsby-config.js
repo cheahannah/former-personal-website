@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/cheahannah.github.io",
   siteMetadata: {
     title: `Hannah Chea Resume, Portfolio, and Personal Website`,
     description: `Hannah Chea is a junior UC Berkeley student studying data science, business, and design. She is currently interested in data scientist, data analyst, and data engineer internship positions.`,
@@ -27,6 +26,21 @@ module.exports = {
     },
     'gatsby-transformer-remark',
     `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "Hannah Chea Personal Website",
+        short_name: "Hannah Chea",
+        start_url: "/",
+        background_color: "#6b37bf",
+        theme_color: "#6b37bf",
+        // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
+        // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
+        display: "standalone",
+        icon: "src/images/icon.png", 
+        crossOrigin: `use-credentials`,
+      },
+    },
     {
       resolve: 'gatsby-plugin-mdx',
       options: {
