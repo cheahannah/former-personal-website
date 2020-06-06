@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/thecheapet.github.io",
+  pathPrefix: "/cheahannah.github.io",
   siteMetadata: {
     title: `Hannah Chea Resume, Portfolio, and Personal Website`,
     description: `Hannah Chea is a junior UC Berkeley student studying data science, business, and design. She is currently interested in data scientist, data analyst, and data engineer internship positions.`,
