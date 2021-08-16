@@ -4,7 +4,7 @@ import "./Footer.css"
 const Footer = ({ selected }) => {
   return (
     <div className="footer">
-        Hannah Chea 2020, <a href="https://github.com/thecheapet/thecheapet.github.io">source code on Github</a>
+        Hannah Chea 2021, <a href="https://github.com/cheahannah/cheahannah.github.io/tree/master">source code on Github</a>
     </div>
   );
 };

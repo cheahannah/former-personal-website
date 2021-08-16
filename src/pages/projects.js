@@ -51,7 +51,7 @@ const ProjectPage = () => {
   return (
     <div>
       <Navbar />
-      <PageLayout title="Projects!">
+      <PageLayout title="Coding Projects!">
         <div className="projects-container">
           {projects.map(
             ({

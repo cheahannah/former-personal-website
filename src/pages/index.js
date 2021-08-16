@@ -13,9 +13,9 @@ const HomePage = () => {
       <div className="home-container">
         <div className="header-details">
           <h1>Hi, I'm Hannah Chea!</h1>
-          <p>I'm a junior at UC Berkeley with a passion for data science, data engineering, and design.</p>
-          <p>I also love playing mellophone for the <a href="http://calband.berkeley.edu/">Cal Band</a>, supporting the <a href="https://www.ocf.berkeley.edu/~sasc/">Southeast Asian community</a>, and laughing at a <a href="https://www.reddit.com/r/data_irl/">good joke or two.</a></p>
-          <p>Feel free to check out my <a href={pdf}>resume!</a></p>
+          <p>I'm a senior undergraduate student at UC Berkeley with a passion for data science, data engineering, and design.</p>
+          <p>I play mellophone for the <a href="http://calband.berkeley.edu/">Cal Band</a>, support the AAPI community, and sometimes play a video game or two.</p>
+          {/* <p>Feel free to check out my <a href={pdf}>resume!</a></p> */}
           <SocialFollow />
         </div>
         <img src={Image} alt="Hannah Chea" />
