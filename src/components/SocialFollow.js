@@ -7,7 +7,7 @@ import {
     faTwitter,
     faInstagram,
     faYoutube,
-    faBehance,
+    //faBehance,
 } from "@fortawesome/free-brands-svg-icons";
 import "./SocialFollow.css";
 
@@ -56,13 +56,13 @@ export default function SocialFollow() {
             >
                 <FontAwesomeIcon icon={faYoutube} size="x" />
             </a>
-            <a 
+            {/*<a 
                 href="https://www.behance.net/xirimpi"
                 className="behance social"
                 target="_blank" rel="noreferrer"
             >
                 <FontAwesomeIcon icon={faBehance} size="x" />
-            </a>
+        </a>*/}
         </div>
     );
 }
